@@ -1,0 +1,21 @@
+{
+  "name": "coderhouse-backend",
+  "version": "0.0.1",
+  "description": "Projeto para atividade aula 10",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
